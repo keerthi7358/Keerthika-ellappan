@@ -95,7 +95,7 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="propic.jpg" alt="Your Profile Picture" class="profile-picture">
+            <img src="photo.jpg" alt="Your Profile Picture" class="profile-picture">
             <h1>KEERTHIKA E</h1>
             <p>STUDENT</p>
         </div>
@@ -125,7 +125,7 @@ Can apply and enhance my skills for solving diverse technical problems.</p>
             <p>University of Madras -pursuing BCA</p>
             
             
-        </div>
+       </div>
     </section>
 
     <section id="skills">
@@ -148,7 +148,7 @@ Can apply and enhance my skills for solving diverse technical problems.</p>
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href="resume.pdf" target="_blank" class="download-button">Download CV</a>
+            <a href="E. keerthika.pdf" target="_blank" class="download-button">Download CV</a>
         </center>
         </div>
         
